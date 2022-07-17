@@ -1,0 +1,15 @@
+D:\dev\LeetCode_CSharp\bin\Debug\net6.0\LeetCode_CSharp.exe
+D:\dev\LeetCode_CSharp\bin\Debug\net6.0\LeetCode_CSharp.deps.json
+D:\dev\LeetCode_CSharp\bin\Debug\net6.0\LeetCode_CSharp.runtimeconfig.json
+D:\dev\LeetCode_CSharp\bin\Debug\net6.0\LeetCode_CSharp.dll
+D:\dev\LeetCode_CSharp\bin\Debug\net6.0\LeetCode_CSharp.pdb
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.csproj.AssemblyReference.cache
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.AssemblyInfoInputs.cache
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.AssemblyInfo.cs
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.csproj.CoreCompileInputs.cache
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.dll
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\refint\LeetCode_CSharp.dll
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.pdb
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\LeetCode_CSharp.genruntimeconfig.cache
+D:\dev\LeetCode_CSharp\obj\Debug\net6.0\ref\LeetCode_CSharp.dll
